@@ -1,4 +1,4 @@
-# Data Science Academy - Python Fundamentos para Análise de Dados
+# Python Fundamentos para Análise de Dados
 
 Projetos e exercícios do cursos Python Fundamentos para Análise de Dados 3.0 ministrado pela Data Science Academy no seguinte link:
 
