@@ -14,14 +14,14 @@ Projetos e exercícios do cursos Python Fundamentos para Análise de Dados 3.0 m
 
 ## Exercícios e Projetos
 
-### Variáveis, Tipos e Estruturas de Dados
+### [Variáveis, Tipos e Estruturas de Dados](https://github.com/GersonBhrener/Python-DSA/tree/master/Cap02/Notebooks)
 
 - Números e Operações Matemáticas
 - Variáveis e Operadores
 - Strings e Indexação
 - Estruturas de Dados: Listas, Dicionários e Tuplas
 
-### Loops, Condicionais, Métodos e Funções
+### [Loops, Condicionais, Métodos e Funções](https://github.com/GersonBhrener/Python-DSA/tree/master/Cap03/Notebooks)
 
 - Condicionais: If/ Else/ Elif, Operadores Lógicos e Placeholders
 - Loop: For, While, Pass/ Break/ Continue, Range
